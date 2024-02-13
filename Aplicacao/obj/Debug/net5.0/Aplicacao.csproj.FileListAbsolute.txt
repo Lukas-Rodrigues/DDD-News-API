@@ -1,0 +1,17 @@
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\refint\Aplicacao.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Dominio.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Entidades.dll
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Dominio.pdb
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\bin\Debug\net5.0\Entidades.pdb
+C:\Users\lucas\Desktop\Projetos\API_DDD\API_DDD_2023\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CopyComplete
